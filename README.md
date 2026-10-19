@@ -121,14 +121,6 @@ I'm a web developer with **7+ years of experience** in the IT and services indus
 
 ---
 
-## 📌 Featured Projects
-
-> Pin your best 4–6 repositories on your profile, then list a couple here.
-
-- 🔹 **[project-name](https://github.com/YOUR_USERNAME/project-name)**: one-line description and stack
-- 🔹 **[project-name](https://github.com/YOUR_USERNAME/project-name)**: one-line description and stack
-
----
 
 ## 🤝 Let's Connect
 
